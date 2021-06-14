@@ -15,7 +15,7 @@ public class DateOrder {
 		ArrayList<LogDataDTO> logDtoList = new ArrayList<LogDataDTO>();
 		ArrayList<String> finalFilteredLogs = new ArrayList<String>();
 		String logType = "L: WARN";
-		String User = "Yamuuuu";
+		String User = "yamuuuuunaaaaaa";
 		String startDateStr = "2021-05-24 00:30";
 		String endDateStr = "2021-05-24 01:20";
 		if(startDateStr != null && startDateStr!="" && endDateStr != null && endDateStr!="") {
